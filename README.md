@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jay-Shah0
 - 👀 I’m interested in tech,finance and obviously video games
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on project where I help in beckend
+- 💞️ I’m looking to collaborate on project where I help in backend
 - 📫 How to reach me on email:jayshah252004@gamil.com
 
 <!---
